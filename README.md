@@ -26,7 +26,7 @@ fields_of_interests:
     "UI/UX",
     "Game Development",
   ]
-currently_learning: ["Unity and C++"]
+currently_learning: ["Unity and Machine learning via python"]
 2022 Goals: ["Work on my platformer game and create my first project"]
 hobbies: ["Gaming", "Art",]
 ```
