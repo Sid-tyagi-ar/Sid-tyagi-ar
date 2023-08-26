@@ -39,7 +39,7 @@ hobbies: ["Gaming", "Art",]
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### Programming languages
 
 <p align="center"> 
 <!--   &emsp;
@@ -54,20 +54,6 @@ hobbies: ["Gaming", "Art",]
 <br> 
 
 ---
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid-tyagi-ar&theme=tokyonight_duo" alt="Sid-tyagi-ar" /></p>
-
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
 ----
-	
-[![Sid-tyagi-ar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sid-tyagi-ar&theme=github	)](https://github.com/Sid-tyagi-ar/github-readme-activity-graph)
 
 </br></br>
