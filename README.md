@@ -8,7 +8,7 @@
 <br>
 
 	
-## <picture><img src = "https://media.tenor.com/JRjX-_Tot6wAAAAC/jojos-bizarre-adventure-drinks-tea.gif?raw=true" width = 50px></picture>Something about me and my hobbies
+## Something about me and my hobbies
 
 <br><br>
 ```yaml
