@@ -22,7 +22,8 @@ education:
 
 fields_of_interests:
   [
-    "Game Development",
+    "Game Development"
+     "Deep Learning",
   ]
 hobbies: ["Gaming", "Art",]
 ```
